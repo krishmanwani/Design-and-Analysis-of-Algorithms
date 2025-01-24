@@ -2,7 +2,7 @@
 
 Divide and conquer is a paradigm for solving problems by breaking them into smaller sub-problems, solving each recursively, and combining their results.
 
-# Algorithms
+## Algorithms
 1. Merge Sort->
     Time Complexity: 
         Best Case- O(nlogn)
@@ -11,5 +11,12 @@ Divide and conquer is a paradigm for solving problems by breaking them into smal
    
     Space Complexity: 
         O(n)
-
- 
+   
+2. Quick Sort->
+    Time Complexity: 
+        Best Case- O(nlogn)
+        Average Case- O(nlogn)
+        Worst Case- O(n^2)
+   
+    Space Complexity: 
+        O(1)
