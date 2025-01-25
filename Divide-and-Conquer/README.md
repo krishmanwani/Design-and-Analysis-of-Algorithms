@@ -10,22 +10,22 @@ Divide and conquer is a paradigm for solving problems by breaking them into smal
         - Worst Case- O(nlogn)
    
     - Space Complexity: 
-        O(n)
+        - O(n)
    
 2. Quick Sort->
     - Time Complexity: 
-        Best Case- O(nlogn)
-        Average Case- O(nlogn)
-        Worst Case- O(n^2)
+        - Best Case- O(nlogn)
+        - Average Case- O(nlogn)
+        - Worst Case- O(n^2)
    
     - Space Complexity: 
-        O(1)
+        - O(1)
 
 3. Strassen's Matrix Multiplication->
     - Time Complexity: 
-        Best Case- O(n^2.81)
-        Average Case- O(n^2.81)
-        Worst Case- O(n^2.81)
+        - Best Case- O(n^2.81)
+        - Average Case- O(n^2.81)
+        - Worst Case- O(n^2.81)
    
     - Space Complexity: 
-        O(n^2)
+        - O(n^2)
