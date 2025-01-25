@@ -5,9 +5,9 @@ Divide and conquer is a paradigm for solving problems by breaking them into smal
 ## Algorithms
 1. Merge Sort->
     - Time Complexity: 
-        Best Case- O(nlogn)
-        Average Case- O(nlogn)
-        Worst Case- O(nlogn)
+        - Best Case- O(nlogn)
+        - Average Case- O(nlogn)
+        - Worst Case- O(nlogn)
    
     - Space Complexity: 
         O(n)
