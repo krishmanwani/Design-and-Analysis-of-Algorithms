@@ -4,28 +4,28 @@ Divide and conquer is a paradigm for solving problems by breaking them into smal
 
 ## Algorithms
 1. Merge Sort->
-    Time Complexity: 
+    - Time Complexity: 
         Best Case- O(nlogn)
         Average Case- O(nlogn)
         Worst Case- O(nlogn)
    
-    Space Complexity: 
+    - Space Complexity: 
         O(n)
    
 2. Quick Sort->
-    Time Complexity: 
+    - Time Complexity: 
         Best Case- O(nlogn)
         Average Case- O(nlogn)
         Worst Case- O(n^2)
    
-    Space Complexity: 
+    - Space Complexity: 
         O(1)
 
 3. Strassen's Matrix Multiplication->
-    Time Complexity: 
+    - Time Complexity: 
         Best Case- O(n^2.81)
         Average Case- O(n^2.81)
         Worst Case- O(n^2.81)
    
-    Space Complexity: 
+    - Space Complexity: 
         O(n^2)
