@@ -6,3 +6,4 @@ This repository contains implementations of various algorithms categorized by th
 
 ## Categories
 - [Divide and Conquer](./Divide-and-Conquer/README.md)
+- [Greedy Approach](./Greedy-Approach/README.md)
