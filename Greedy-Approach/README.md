@@ -10,4 +10,4 @@ The idea is to make decisions that seem the most beneficial at the moment, hopin
         - Average Case- O(nlogn)
         - Worst Case- O(nlogn)
     - Space Complexity:
-	- O(n^2)
+    	- O(n^2)
