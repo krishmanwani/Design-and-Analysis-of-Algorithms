@@ -7,7 +7,7 @@ The idea is to make decisions that seem the most beneficial at the moment, hopin
 1. Fractional Knapsack Problem->
     - Time Complexity:
         - Best Case- O(nlogn)
-	- Average Case- O(nlogn)
-	- Worst Case- O(nlogn)
+        - Average Case- O(nlogn)
+        - Worst Case- O(nlogn)
     - Space Complexity:
 	- O(n^2)
